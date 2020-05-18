@@ -19,3 +19,9 @@ git add 'filenames'
 git commit -m "some desc"
 ### adds the updates to Github
 git push -u origin master 
+
+
+transpose
+
+np.array().t
+zip(*lists)
