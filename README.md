@@ -25,3 +25,6 @@ transpose
 
 np.array().t
 zip(*lists)
+
+##code for data visuals
+python-graph-gallery.com
