@@ -28,3 +28,12 @@ zip(*lists)
 
 ##code for data visuals
 python-graph-gallery.com
+
+#printing
+
+ `print(f"Something {cool}")`
+    - `print("Something {}".format("cool"))`
+    - `print("This is cool too!")`
+    - `print("This is even %s!" % "cooler")`
+    
+    
