@@ -19,3 +19,19 @@ The next steps would be to run some multi-dimensional analysis on top of what ha
 Some of the pre-bucketed data not accurate so as the alignment of departure time to the departure time buckets. The time bucket which I created seems very useful.
 
 The merging of airport names to the dataset was not perfect but only affected less than 5 percent of the dataset. For the airport based analysis, I excluded this from the analysis.
+
+Missing airport names and flight count or 0.3% of the dataset;
+
+AZA    495
+ECP    476
+FCA    264
+HHH    186
+SCE    116
+USA    112
+PBG    108
+MQT     95
+XWA     68
+IAG     55
+VEL     53
+SPN     44
+BFM     13
