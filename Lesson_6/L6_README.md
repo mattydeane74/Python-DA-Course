@@ -15,6 +15,10 @@ The next steps would be to run some multi-dimensional analysis on top of what ha
 
 3. No real evidence of delay pattern based on the flight distance in this dataset.
 
+4. performed some multi-dimensional analysis using Airport and Airlines per time buckets. Clear patterns on flight delays getting
+   worse throughout the day. Hub airports look worse and dominant airlines seem to have better records which may come from more
+   resources and more power over air control.
+
 
 Some of the pre-bucketed data not accurate so as the alignment of departure time to the departure time buckets. The time bucket which I created seems very useful.
 
