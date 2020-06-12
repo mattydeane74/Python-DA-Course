@@ -1,9 +1,9 @@
 
 # The Airlines delay dataset contains flight data for the United States for Jan 2020
 
-## The dataset was downloaded from Kaggle is saved in the datasets directory
+## The dataset was downloaded from Kaggle is saved in the datasets directory as "Jan_2020_ontime.zip"
 
-## A clean version of the dataset is saved under Lesson 6 as "cleaned_Jan2020_airline_delay.csv"
+## A clean version of the dataset is saved under Lesson 6 as "cleaned_Jan2020_airline_delay.zip"
 
 This was a very useful dataset as it allowed a few columns to be created, some cleaning was required and there are some nice patterns to explore in the dataset.
 
