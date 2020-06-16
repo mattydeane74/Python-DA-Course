@@ -5,6 +5,8 @@
 
 ## A clean version of the dataset is saved under Lesson 6 as "cleaned_Jan2020_airline_delay.zip"
 
+## The working file is saved as Airlines_delay.ipynb.
+
 This was a very useful dataset as it allowed a few columns to be created, some cleaning was required and there are some nice patterns to explore in the dataset.
 
 The next steps would be to run some multi-dimensional analysis on top of what has been found in the opening exploratory analysis.
